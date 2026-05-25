@@ -20,6 +20,3 @@ class bank:
         print("phone number added successfully")
     else:
        print("account does not exists.create a new account for valid inputs")
-    if account_name in accounts:
-       try:
-          account
